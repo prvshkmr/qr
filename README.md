@@ -2,6 +2,10 @@
 
 A simple responsive QR code generator built with React and Vite.
 
+## Live
+
+https://qr.prvhskmr.in
+
 ## Features
 
 - Generates QR codes instantly while typing
@@ -13,3 +17,4 @@ A simple responsive QR code generator built with React and Vite.
 ```bash
 npm install
 npm run dev
+```

@@ -3,5 +3,5 @@
 A simple responsive QR code generator built with React.
 ## Live
 
-https://qr.prvhskmr.in
+https://qr.prvshkmr.in
 
